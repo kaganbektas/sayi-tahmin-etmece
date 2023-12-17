@@ -1,0 +1,3 @@
+﻿  sesli sayı 2.cpp
+C:\Users\alpka\source\repos\btk\sesli sayı 2\sesli sayı 2.cpp(8,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  sesli sayı 2.vcxproj -> C:\Users\alpka\source\repos\btk\x64\Debug\sesli sayı 2.exe
